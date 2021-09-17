@@ -39,4 +39,4 @@
     - Require a system reboot
     - Software can be downloaded manually or over the Management interface
 
-[Next Step --> Firewall Basic Settings](#)  
+[Next Step --> Firewall Basic Settings](https://github.com/schlangens/knowledge-base/blob/main/Palo%20Alto%20Essentials/firewall-basic-settings.md)  
