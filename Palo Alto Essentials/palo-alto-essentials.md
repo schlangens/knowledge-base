@@ -29,7 +29,7 @@
         + [https://www.paloaltonetworks.com/network-security/next-generation-firewall](https://www.paloaltonetworks.com/network-security/next-generation-firewall)
         + [https://www.paloaltonetworks.com/resources/pa-series-next-generation-firewalls-hardware-architectures](https://www.paloaltonetworks.com/resources/pa-series-next-generation-firewalls-hardware-architectures)
         + [PA-220/PA-220R](https://www.paloaltonetworks.com/network-security/next-generation-firewall/pa-220)
-            - [PA-220 Datashee](https://www.paloaltonetworks.com/resources/datasheets/pa-220-specsheet)
+            - [PA-220 Datasheet](https://www.paloaltonetworks.com/resources/datasheets/pa-220-specsheet)
 
 # Processing Architectures
 - Single-Pass Parallel Processing (SP3)
