@@ -36,8 +36,8 @@
 - Traffic Planes
     - Palo Alto splits hardware resources between two traffic planes
         + Control
-            + Configuration, logging, reporting
+            - Configuration, logging, reporting
         + Data
-            + Signature matching, security & network processing
+            - Signature matching, security & network processing
 
-[Management Access]()    
+[Management Access](https://github.com/schlangens/knowledge-base/blob/main/Palo%20Alto%20Essentials/management-access.md)    
