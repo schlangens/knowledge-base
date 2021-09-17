@@ -177,3 +177,4 @@ gT or :tabprev or :tabp # move to the previous tab
 :tabonly or :tabo       # close all tabs except for the current one
 :tabdo command          # run the command on all tabs (e.g. :tabdo q - closes all opened tabs)
 ```
+[Back to KB](https://schlangens.github.io/knowledge-base/)
