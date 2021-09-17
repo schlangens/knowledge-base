@@ -19,4 +19,19 @@
 - Data Ports also support management functions
     - Management Profiles
     - Service Routes
-    
+# Service Routes
+- Required to provided access to external services through data ports
+    - Device > Setup > Services > Service Route Configuration > Customize
+
+# Firewall CLI
+- Palo Alto Firewalls use two CLI modes
+    - Operational
+        - Basic networking/system commands & verification
+            - `ping` , `traceroute` , `show` , `debug`
+    - Configuration
+        - Accessible via configure        
+- CLI Enhancements
+    - Use find to figure out the command syntax
+    - Use `?` to get help on the command options and parameters
+    - Use the `TAB` key for command auto-completion
+    Use the `|` symbol along with `match` or `except` for output filtering        
