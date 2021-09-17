@@ -1,4 +1,4 @@
-[ <-- Back to Firewall Basic Settings](#)
+[ <-- Back to Firewall Basic Settings](https://github.com/schlangens/knowledge-base/blob/main/Palo%20Alto%20Essentials/firewall-basic-settings.md)
 # Data Interfaces
 - PAN-OS supports several types of interfaces and can opertate in multiple deployments
     - Tap, Virtual Wire, Layer 2, Layer 3
