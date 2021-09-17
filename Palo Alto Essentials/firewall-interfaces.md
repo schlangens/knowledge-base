@@ -39,4 +39,4 @@
 - Tunnel
     - Virtual interface used for VPN representation
     
-[Next Step --> Firewall Initialization](#)  
+[Next Step --> Firewall Initialization](https://github.com/schlangens/knowledge-base/blob/main/Palo%20Alto%20Essentials/firewall-initialization.md)  
