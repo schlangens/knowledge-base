@@ -1,3 +1,4 @@
+[ <-- Back to KB](https://schlangens.github.io/knowledge-base/)
 # Management Access
 + Web Interface
     - Local
