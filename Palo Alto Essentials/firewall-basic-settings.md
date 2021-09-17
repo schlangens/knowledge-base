@@ -1,12 +1,12 @@
 [ <-- Back to Firewall Maintenance](https://github.com/schlangens/knowledge-base/blob/main/Palo%20Alto%20Essentials/firewall-maintenance.md)
 # General Configuration
-- Device --> Setup --> Management
+- Device -> Setup -> Management
     - Hostname
     - Domain
     - Login Banner
-- Device --> Setup --> Operations
+- Device -> Setup -> Operations
     - SNMP
-- Device --> Setup --> Services
+- Device -> Setup -> Services
     - DNS
     - NTP
 # Admin Roles
