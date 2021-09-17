@@ -27,3 +27,17 @@
 - Physical Appliances
     - 220, 800, 3200, 5200 & 7000 PA series
         + [https://www.paloaltonetworks.com/network-security/next-generation-firewall](https://www.paloaltonetworks.com/network-security/next-generation-firewall)
+
+# Processing Architectures
+- Single-Pass Parallel Processing (SP3)
+    - Simultaneous traffic classification & enforcement
+        + Full-stack single-pass inspection
+- Heavily reduces latency & increases performance 
+- Traffic Planes
+    - Palo Alto splits hardware resources between two traffic planes
+        + Control
+            + Configuration, logging, reporting
+        + Data
+            + Signature matching, security & network processing
+
+[Management Access]()    
