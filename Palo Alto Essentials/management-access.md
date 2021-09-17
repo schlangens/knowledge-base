@@ -35,4 +35,7 @@
     - Use `find` to figure out the command syntax
     - Use `?` to get help on the command options and parameters
     - Use the `TAB` key for command auto-completion
-    Use the `|` symbol along with `match` or `except` for output filtering        
+    Use the `|` symbol along with `match` or `except` for output filtering       
+
+
+[Next Step --> Firewall-Maintenance](https://github.com/schlangens/knowledge-base/blob/main/Palo%20Alto%20Essentials/firewall-maintenance.md)  

@@ -61,4 +61,4 @@
         + Data
             * Signature matching, security & network processing
 
-[Management Access](https://github.com/schlangens/knowledge-base/blob/main/Palo%20Alto%20Essentials/management-access.md)    
+[Next Step --> Management Access](https://github.com/schlangens/knowledge-base/blob/main/Palo%20Alto%20Essentials/management-access.md)    
