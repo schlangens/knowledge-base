@@ -20,4 +20,4 @@
     - Device -> Administrators
     - Device -> Admin Roles
 
-[Next Step --> Firewall Interfaces](#)  
+[Next Step --> Firewall Interfaces](https://github.com/schlangens/knowledge-base/blob/main/Palo%20Alto%20Essentials/firewall-interfaces.md)  
