@@ -34,8 +34,15 @@
             - [PA-220r Datasheet](https://www.paloaltonetworks.com/resources/datasheets/pa-220r)
         + [PA-400](https://www.paloaltonetworks.com/network-security/next-generation-firewall/pa-400-series)
             - [PA-400 Datasheet](https://www.paloaltonetworks.com/resources/datasheets/pa-400-series)
-        + [PA=800](https://www.paloaltonetworks.com/network-security/next-generation-firewall/pa-800-series)
+        + [PA-800](https://www.paloaltonetworks.com/network-security/next-generation-firewall/pa-800-series)
             - [PA-800 Datasheet](https://www.paloaltonetworks.com/resources/datasheets/pa-800-series-datasheet)
+        + [PA-3200](https://www.paloaltonetworks.com/network-security/next-generation-firewall/pa-3200-series)
+            - [PA-3200 Datasheet](https://www.paloaltonetworks.com/resources/datasheets/pa-3200-series)
+        + [PA-5200](https://www.paloaltonetworks.com/network-security/next-generation-firewall/pa-5200-series)
+            - [PA-5200 Datasheet](https://www.paloaltonetworks.com/resources/datasheets/pa-5200-series-specsheet)
+        + [PA-5450](https://www.paloaltonetworks.com/network-security/next-generation-firewall/pa-5450-series)
+            - [PA-5450 Datasheet](https://www.paloaltonetworks.com/network-security/next-generation-firewall/pa-5450-series)
+        + [PA-7000](https://www.paloaltonetworks.com/network-security/next-generation-firewall/pa-7000-series)
 # Processing Architectures
 - Single-Pass Parallel Processing (SP3)
     - Simultaneous traffic classification & enforcement
