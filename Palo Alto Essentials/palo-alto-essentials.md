@@ -27,6 +27,7 @@
 - Physical Appliances
     - 220, 800, 3200, 5200 & 7000 PA series
         + [https://www.paloaltonetworks.com/network-security/next-generation-firewall](https://www.paloaltonetworks.com/network-security/next-generation-firewall)
+        + [https://www.paloaltonetworks.com/resources/pa-series-next-generation-firewalls-hardware-architectures](https://www.paloaltonetworks.com/resources/pa-series-next-generation-firewalls-hardware-architectures)
 
 # Processing Architectures
 - Single-Pass Parallel Processing (SP3)
