@@ -29,9 +29,9 @@
         - Basic networking/system commands & verification
             - `ping` , `traceroute` , `show` , `debug`
     - Configuration
-        - Accessible via configure        
+        - Accessible via `configure`       
 - CLI Enhancements
-    - Use find to figure out the command syntax
+    - Use `find` to figure out the command syntax
     - Use `?` to get help on the command options and parameters
     - Use the `TAB` key for command auto-completion
     Use the `|` symbol along with `match` or `except` for output filtering        
