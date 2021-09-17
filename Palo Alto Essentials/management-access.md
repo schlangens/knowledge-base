@@ -1,4 +1,4 @@
-[ <-- Back to KB](https://schlangens.github.io/knowledge-base/)
+[ <-- Back to Essentials](https://github.com/schlangens/knowledge-base/blob/main/Palo%20Alto%20Essentials/palo-alto-essentials.md)
 # Management Access
 + Web Interface
     - Local
