@@ -17,8 +17,7 @@ Common tools:
 
 TCP Flags are a critical part of scanning
 
-![](media/image3.png){width="2.6666863517060366in"
-height="1.5260531496062992in"}
+![](media/image3.png)
 
   -----------------------------------------------------------------------
   URG                     Urgent                  Indicates data is sent
@@ -42,8 +41,7 @@ height="1.5260531496062992in"}
                                                   a session
   -----------------------------------------------------------------------
 
-![](media/image4.png){width="3.0833562992125985in"
-height="2.427100831146107in"}
+![](media/image4.png)
 
 **Nmap**
 
@@ -264,8 +262,7 @@ Verbose
 -   TCP scan that sends spoofed packets to a target and observes the
     response to the Zombie (spoofed computer)
 
-![](media/image5.png){width="4.9114938757655295in"
-height="1.8125131233595801in"}
+![](media/image5.png)
 
 **Hping**
 
