@@ -72,7 +72,7 @@ Do not work on windows hosts
 
 **Nmap ACK Scan -- Firewall Rule sets**
 
--sA -- ACK Scan
+`-sA` -- ACK Scan
 
 -   Used to map firewall rules and can distinguish between stateful and
     stateless firewalls
@@ -82,12 +82,11 @@ Do not work on windows hosts
 
     -   If the host responds with a RST
 
-        -   The host is not being filtered by a firewall.
+        > The host is not being filtered by a firewall.
 
     -   If nothing comes back
 
-        -   The port is "filtered" or there is a firewall preventing the
-            RST from coming back
+        > The port is "filtered" or there is a firewall preventing the RST from coming back.
 
 -   Can help determine if a firewall is stateless (just blocks incoming
     SYN packets) or stateful (tracks connections and also blocks
