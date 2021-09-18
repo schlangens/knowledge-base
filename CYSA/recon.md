@@ -41,8 +41,7 @@ organization by using search engine tags
 
 DNS(Domain Name System)- Determine IP space
 
-![](media/image1.png){width="4.239613954505687in"
-height="2.4218930446194227in"}
+![](media/image1.png)
 
 Footprinting
 
@@ -56,5 +55,4 @@ Objective is to gain insight into the target -- to "know your enemy"
 
 Footprinting is one of three pre-attack phases:
 
-![](media/image2.png){width="3.453150699912511in"
-height="0.7239632545931759in"}
+![](media/image2.png)
