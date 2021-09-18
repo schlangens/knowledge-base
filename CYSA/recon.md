@@ -1,6 +1,6 @@
 Phase 1 -- Reconnaissance
 
--   Do they have a presence on the internet?`(www.domain.info)`
+-   Do they have a presence on the internet?`www.domain.info`
 
 -   Can I find their IP space? `nslookup` set type=mx  domain.info`
 
