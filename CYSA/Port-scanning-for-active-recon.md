@@ -118,22 +118,22 @@ Do not work on windows hosts
 
 No Ping
 
--   PN -- Disable ping during scan
+-   `-PN` -- Disable ping during scan
 
 Name Resolution
 
--n -- Disables name resolution of target hosts\
--R -- Resolves names to IP addresses
+`-n` -- Disables name resolution of target hosts\
+`-R` -- Resolves names to IP addresses
 
 Verbose
 
--v -- Verbose Mode
+`-v` -- Verbose Mode
 
--vv -- Very Verbose Mode
+`-vv` -- Very Verbose Mode
 
 **Nmap Idle Scan**
 
-**-sl -- Idle Scan**
+**`-sl` -- Idle Scan**
 
 -   TCP scan that sends spoofed packets to a target and observes the
     response to the Zombie (spoofed computer)
